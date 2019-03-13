@@ -7,7 +7,9 @@ margin: 0;
 background-image: url(img/contact.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+justify-content: center;
 }
 .opacity{
-  backdrop-filter: opacity(50%);
+  background: rgba(230, 230, 230, 0.7);
+
 }
