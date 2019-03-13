@@ -1,0 +1,13 @@
+body{
+margin: 0;
+}
+.contact{
+  width: 100vw;
+  height: 100vh;
+background-image: url(img/contact.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.opacity{
+  backdrop-filter: opacity(50%);
+}
