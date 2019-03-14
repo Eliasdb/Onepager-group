@@ -13,7 +13,7 @@
     height:70%;
     background: rgba(230, 230, 230, 0.7);
     margin-left: 50%;
-    transform: translate(-50%, 40vh);
+    transform: translate(-50%, 20vh);
 }
 @media(max-width:768px){
     .opacity{
