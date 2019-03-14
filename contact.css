@@ -12,8 +12,8 @@ justify-content: center;
   margin-left: 50%;
   transform: translate(-50%, 40vh);
 }
-@media screen and (min-width:200px){
+@media(max-width:768px){
   .opacity{
-    transform: translate(-50%, 20vh);
+    transform: translate(-50%, 0);
   }
 }
