@@ -1,4 +1,4 @@
-# call-me-doggy  
+# Call Me Doggy  
 ## About  
 group project on HTML, CSS & frameworks by Elias, Aagje, Madalina & Dries  
 ## Features  
