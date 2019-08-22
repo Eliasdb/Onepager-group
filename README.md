@@ -8,4 +8,4 @@ group project on HTML, CSS & frameworks by Elias, Aagje, Madalina & Dries
 * Interactive navigation  
 * Lots of fluffy doggos  
 ## Link  
-[Click here](https://eliasdb.github.io/call-me-doggy/)  
+[Click here](https://eliasdb.github.io/Onepager-group/)  
